@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\list_item_article.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\src\\main\\res\\layout-v21\\list_item_article.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_article_list.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\src\\main\\res\\layout-v21\\activity_article_list.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\rithm\\xyzreader_orig\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21\\fragment_article_detail.xml",
+        "source": "C:\\rithm\\xyzreader_orig\\XYZReader\\src\\main\\res\\layout-v21\\fragment_article_detail.xml"
+    }
+]
